@@ -1,0 +1,41 @@
+
+leaderBoard.png
+size: 1024,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+board
+  rotate: false
+  xy: 2, 401
+  size: 956, 1525
+  orig: 956, 1525
+  offset: 0, 0
+  index: -1
+medal
+  rotate: false
+  xy: 2, 2
+  size: 150, 229
+  orig: 150, 229
+  offset: 0, 0
+  index: 1
+medal
+  rotate: false
+  xy: 154, 22
+  size: 147, 209
+  orig: 147, 209
+  offset: 0, 0
+  index: 3
+medal
+  rotate: false
+  xy: 303, 197
+  size: 143, 202
+  orig: 143, 202
+  offset: 0, 0
+  index: 2
+retry-button
+  rotate: false
+  xy: 2, 233
+  size: 268, 166
+  orig: 268, 166
+  offset: 0, 0
+  index: -1
